@@ -23,6 +23,7 @@ public static void main(String[] args) {
 	System.out.println(m.getGreet());
 	System.out.println(m.getMessage());
 	System.out.println("******End of the Test*****");
+	System.out.println("******Test passed*****");
 	
 }
 
