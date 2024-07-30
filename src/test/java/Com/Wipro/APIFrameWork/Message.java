@@ -22,6 +22,8 @@ public static void main(String[] args) {
 	m.setGreet("Hi Angara");
 	System.out.println(m.getGreet());
 	System.out.println(m.getMessage());
+	System.out.println("******End of the Test*****");
+	
 }
 
 }
